@@ -1,0 +1,30 @@
+<html>
+	<head>
+		<title> About Rachel Domnitz </title>
+		<link rel="stylesheet" href="styles.css">
+	</head>
+	
+	<body>
+	
+		<h1> Rachel Domnitz </h1>
+		
+		<h2> My Work </h2>
+		
+			<p> I have a background in busniess management and mostly have managed others small businesses. I was co-owner of a HVAC business a fews years ago but recently opened my own cleaning company. The name is Mountain Paradise Cleaning and I do turnovers for local AirBnbs around Bozeman, MT.</p>
+			
+		<h2> My Kids </h2>
+			
+			<p> I am a mother of three children. Noah is 13, Shiloh is 10 and Sterlig is 8. They are my joy and my life. Everything I am working toward is to better our lives and futures. </p>
+			
+		<h2> Hobbies </h2>
+		
+			<p> I enjoy sports, music, swimming, surfing, snowboarding, running and hiking. I love taking my kids to the river and to explore the great state of Montana. </p>
+	
+		<img src=C:\Users\Suscriber\OneDrive - Montana Tech\WebDesign\images.jpg.>
+	</body>
+
+
+
+
+
+</html>
